@@ -1,8 +1,8 @@
 ## Добро пожаловать на GitHub cтраницe
 
-You can use the [editor on GitHub](https://github.com/Logvinvivi/I0Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ Вы можете использовать [editor on GitHub](https://github.com/Logvinvivi/I0Home/edit/gh-pages/index.md) для сохранения и предварительного просмотра содержимого вашего веб-сайта в файлах Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Всякий раз, когда вы фиксируете этот репозиторий, GitHub Pages будет запускаться [Jekyll](https://jekyllrb.com/) чтобы перестроить страницы вашего сайта из содержимого ваших файлов Markdown.
 
 ### Markdown
 
