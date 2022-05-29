@@ -5,11 +5,10 @@
 Всякий раз, когда вы фиксируете этот репозиторий, GitHub Pages будет запускаться [Jekyll](https://jekyllrb.com/) чтобы перестроить страницы вашего сайта из содержимого ваших файлов Markdown.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown — это легкий и простой в использовании синтаксис для оформления вашего текста. Он включает соглашения для
 
 ```markdown
-Syntax highlighted code block
+Блок кода с выделенным синтаксисом
 
 # Header 1
 ## Header 2
